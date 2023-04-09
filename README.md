@@ -1,1 +1,1 @@
-# 24 Eylül Neos Akademi Full Stack Programı
+# 24 Eylül Neos Akademi Full Stack Programı Öğrenci Projesi
